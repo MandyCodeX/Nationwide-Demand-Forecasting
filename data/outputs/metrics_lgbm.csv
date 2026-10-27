@@ -1,0 +1,3 @@
+model,scope,n_series,WAPE,RMSSE
+lgbm,all series,600,0.6699,0.8091
+lgbm,top 40 series,40,0.4834,0.8345

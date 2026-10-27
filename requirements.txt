@@ -1,0 +1,24 @@
+# core
+numpy
+pandas
+pyarrow
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+tabulate
+# models
+lightgbm
+prophet
+darts
+pytorch-forecasting
+lightning
+torch
+# optimisation + app
+ortools
+plotly
+dash
+# notebooks + tests
+jupyter
+jupytext
+pytest

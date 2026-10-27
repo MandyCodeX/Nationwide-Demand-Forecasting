@@ -1,0 +1,5 @@
+policy,holding_cost,stockout_cost,total_cost,purchase_spend,units_short,units_left,fill_rate,cost_vs_B_%
+A last-week sales,1871.95,16102.47,17974.42,73426.7,5678.0,5783.0,0.81,32.36
+B forecast mean,1191.25,12388.75,13579.99,71171.35,4400.0,3437.0,0.85,0.0
+C optimised,3220.5,2828.47,6048.98,102616.45,939.0,13109.0,0.97,-55.46
+"D optimised, B's budget",1079.76,12825.5,13905.26,71159.8,4558.0,3598.0,0.85,2.4

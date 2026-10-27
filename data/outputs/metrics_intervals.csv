@@ -1,0 +1,5 @@
+interval,target,coverage,avg_width
+80% raw,0.8,0.8564,3.6641
+80% calibrated,0.8,0.8564,3.6641
+90% raw,0.9,0.9387,4.5969
+90% calibrated,0.9,0.9387,4.5969

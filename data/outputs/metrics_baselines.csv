@@ -1,0 +1,8 @@
+model,n_series,WAPE,RMSSE,scope
+naive,600,0.8764,1.072,all series
+snaive,600,0.9299,1.1651,all series
+ma28,600,0.7037,0.8428,all series
+naive,40,0.6603,1.1249,top 40 series
+snaive,40,0.7213,1.2373,top 40 series
+ma28,40,0.5171,0.8927,top 40 series
+prophet,40,0.5264,0.8915,top 40 series

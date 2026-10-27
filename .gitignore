@@ -1,0 +1,31 @@
+# Raw M5 data (too large to commit — download from Kaggle)
+data/raw/*.csv
+
+# Generated intermediate artefacts
+data/processed/
+data/outputs/*.parquet
+
+# Saved model weights / checkpoints (large)
+models/*.ckpt
+
+# Notebook checkpoints & caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Reports — keep metrics.md and all figures (they are output artefacts we want to show)
+# reports/figures/ is intentionally NOT ignored
